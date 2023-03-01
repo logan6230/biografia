@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    background-color: rgb(241, 237, 233);
+}
+
+.img {
+   display: flex;
+   align-items: center;
+   align-content: center;
+}
+
+img {
+
+    width: 50%;
+}
+
+.izquierda {
+    width: 40%;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+.derecha {
+    font-family: 'Courier New', Courier, monospace;
+}
